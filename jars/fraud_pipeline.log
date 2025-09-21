@@ -1,0 +1,6 @@
+nohup: ignoring input
+25/09/20 13:18:31 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+25/09/20 13:18:31 WARN DependencyUtils: Local jar /csehome/m24csa020/fraud_detection/jars/~/fraud_detection/jars/xgboost4j_2.12-1.7.6.jar does not exist, skipping.
+python3: can't open file '/csehome/m24csa020/fraud_detection/jars/fraud_pipeline.py': [Errno 2] No such file or directory
+25/09/20 13:18:31 INFO ShutdownHookManager: Shutdown hook called
+25/09/20 13:18:31 INFO ShutdownHookManager: Deleting directory /tmp/spark-ebc4b1a2-32d5-45e5-845f-50200ba8aa9a
